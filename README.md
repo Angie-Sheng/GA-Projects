@@ -23,12 +23,14 @@ Final Presentation: https://github.com/Angie-Sheng/GA-Projects/blob/master/Job%2
 
 Predicted sales prices and practice feature engineering using kaggle's Ames Housing dataset. Used statistical analysis to optimize investment and maximize return. 
 
-This project is consist of three part: the [first part](https://github.com/Angie-Sheng/GA-Projects/blob/master/House%20Price%20Prediction/Project%203%20-%20Part%201%20Fixed%20Characteristics.ipynb) is dealing with fixed characteristics, followed by the [second part](https://github.com/Angie-Sheng/GA-Projects/blob/master/House%20Price%20Prediction/Project%203%20-%20Part%202%20Renovateable%20Characteristics.ipynb) to add more renovateable characteristics to predict house price. In the [final part](https://github.com/Angie-Sheng/GA-Projects/blob/master/House%20Price%20Prediction/Project%203%20-%20Part%203%20Abnormal%20%20Classifier.ipynb), I tried different classifier to justify whether we could determine which features predict the Abnorml category in the SaleCondition feature or not.
+This project consists of three part: the [first part](https://github.com/Angie-Sheng/GA-Projects/blob/master/House%20Price%20Prediction/Project%203%20-%20Part%201%20Fixed%20Characteristics.ipynb) is dealing with fixed characteristics, followed by the [second part](https://github.com/Angie-Sheng/GA-Projects/blob/master/House%20Price%20Prediction/Project%203%20-%20Part%202%20Renovateable%20Characteristics.ipynb) to add more renovateable characteristics to predict house price. In the [final part](https://github.com/Angie-Sheng/GA-Projects/blob/master/House%20Price%20Prediction/Project%203%20-%20Part%203%20Abnormal%20%20Classifier.ipynb), I tried different classifier to justify whether we could determine which features predict the Abnorml category in the SaleCondition feature or not.
 
 Tag: Feature Engineering / Regularisation Techniques / Generalized Linear Model / Residual analysis 
 
-#### 3. Fake News Detector:
+#### 3. [Fake News Detector](https://github.com/Angie-Sheng/GA-Projects/tree/master/Fake%20News%20Detector):
 
 Using NLP(Natural Language Processing) techniques and several classification models to implement a machine learning pipeine to predict whether a news is fake or not.
+
+Final presentation consists of [non-technical presentation](https://github.com/Angie-Sheng/GA-Projects/blob/master/Fake%20News%20Detector/Finding%20Real%20About%20Fake%20News%20by%20Angie%20Sheng.pdf) and [technical presentation](https://github.com/Angie-Sheng/GA-Projects/blob/master/Fake%20News%20Detector/Detecting%20fake%20news.pdf).
 
 Tag: Web Scraping / NLP / Pipeline / GridSearchCV
