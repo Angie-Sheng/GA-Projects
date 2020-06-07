@@ -9,7 +9,7 @@ The course is incredibly detailed, with the main areas of study being:
 - Web Scraping: Using Spiders, XPath, BeautifulSoup4 and Selenium to scrape data from websites and processing using Python
 
 Some of notable projects are:
-#### 1. Job Market Analysis:
+#### 1. [Job Market Analysis](https://github.com/Angie-Sheng/GA-Projects/tree/master/Job%20Market%20Analysis):
 
 Scraped Data related jobs from job portal website to analyze which features contributed to predicting the salary and job title.
 
