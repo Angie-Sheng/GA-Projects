@@ -19,9 +19,11 @@ Model: https://github.com/Angie-Sheng/GA-Projects/blob/master/Job%20Market%20Ana
 
 Final Presentation: https://github.com/Angie-Sheng/GA-Projects/blob/master/Job%20Market%20Analysis/Project%204.pdf
 
-#### 2. House Price Prediction:
+#### 2. [House Price Prediction](https://github.com/Angie-Sheng/GA-Projects/tree/master/House%20Price%20Prediction):
 
-Predicted sales prices and practice feature engineering using kaggle's Ames Housing dataset. Used statistical analysis to optimize investment and maximize return.
+Predicted sales prices and practice feature engineering using kaggle's Ames Housing dataset. Used statistical analysis to optimize investment and maximize return. 
+
+This project is consist of three part: the [first part](https://github.com/Angie-Sheng/GA-Projects/blob/master/House%20Price%20Prediction/Project%203%20-%20Part%201%20Fixed%20Characteristics.ipynb) is dealing with fixed characteristics, followed by the [second part](https://github.com/Angie-Sheng/GA-Projects/blob/master/House%20Price%20Prediction/Project%203%20-%20Part%202%20Renovateable%20Characteristics.ipynb) to add more renovateable characteristics to predict house price. In the [final part](https://github.com/Angie-Sheng/GA-Projects/blob/master/House%20Price%20Prediction/Project%203%20-%20Part%203%20Abnormal%20%20Classifier.ipynb), I tried different classifier to justify whether we could determine which features predict the Abnorml category in the SaleCondition feature or not.
 
 Tag: Feature Engineering / Regularisation Techniques / Generalized Linear Model / Residual analysis 
 
