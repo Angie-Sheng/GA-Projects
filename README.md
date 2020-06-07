@@ -15,9 +15,7 @@ Scraped Data related jobs from job portal website to analyze which features cont
 
 Tag: Web Scraping / Word Cloud / Word2Vec / Tfidf / CountVectorizer / Tree-based Classifier / Logistic Regression
 
-Model: https://github.com/Angie-Sheng/GA-Projects/blob/master/Job%20Market%20Analysis/3.%20Data%20Analysis.ipynb
-
-Final Presentation: https://github.com/Angie-Sheng/GA-Projects/blob/master/Job%20Market%20Analysis/Project%204.pdf
+A detailed walk through of my model could be found [here](https://github.com/Angie-Sheng/GA-Projects/blob/master/Job%20Market%20Analysis/3.%20Data%20Analysis.ipynb) and my final Presentation could be found [here](https://github.com/Angie-Sheng/GA-Projects/blob/master/Job%20Market%20Analysis/Project%204.pdf).
 
 #### 2. [House Price Prediction](https://github.com/Angie-Sheng/GA-Projects/tree/master/House%20Price%20Prediction):
 
