@@ -11,7 +11,7 @@ The course is incredibly detailed, with the main areas of study being:
 Some of notable projects are:
 #### 1. Job Market Analysis:
 
-Scraped Data related jobs from job portal website to analyze which features contributed to predicting the salary.
+Scraped Data related jobs from job portal website to analyze which features contributed to predicting the salary and job title.
 
 Tag: Web Scraping / Word Cloud / Word2Vec / Tfidf / CountVectorizer / Tree-based Classifier / Logistic Regression
 
