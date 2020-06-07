@@ -1,4 +1,4 @@
-Project 4: Web Scraping Job Postings
+# Project 4: Web Scraping Job Postings
 
 ## Business Case Overview
 
