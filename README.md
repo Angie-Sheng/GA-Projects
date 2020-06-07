@@ -11,10 +11,9 @@ The course is incredibly detailed, with the main areas of study being:
 Some of notable projects are:
 1. Job Market Analysis:
 Scraped Data related jobs from job portal website to analyze which features contributed to predicting the salary.
-Scraped Data related jobs from job portal website (seek.com.au) to analyze which features contributed to predicting the salary.
-This project consists of testing the three major skills: collecting data by scraping a website, using natural language processing, and building a classifier.
-Tag: NLP/ 
 Tag: Web Scraping / Word Cloud / Word2Vec / Tfidf / CountVectorizer / Tree-based Classifier / Logistic Regression
+Model: https://github.com/Angie-Sheng/GA-Projects/blob/master/Job%20Market%20Analysis/3.%20Data%20Analysis.ipynb
+Final Presentation: https://github.com/Angie-Sheng/GA-Projects/blob/master/Job%20Market%20Analysis/Project%204.pdf
 
 2. House Price Prediction:
 Predicted sales prices and practice feature engineering using kaggle's Ames Housing dataset. Used statistical analysis to optimize investment and maximize return.
