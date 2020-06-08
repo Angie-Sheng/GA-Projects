@@ -27,7 +27,7 @@ Tag: Feature Engineering / Regularisation Techniques / Generalized Linear Model 
 
 #### 3. [Fake News Detector](https://github.com/Angie-Sheng/GA-Projects/tree/master/Fake%20News%20Detector):
 
-Using NLP(Natural Language Processing) techniques and several classification models to implement a machine learning pipeine to predict whether a news is fake or not.
+Using NLP(Natural Language Processing) techniques and several classification models to implement a machine learning pipeline to predict whether a news is fake or not.
 
 Final presentation consists of [non-technical presentation](https://github.com/Angie-Sheng/GA-Projects/blob/master/Fake%20News%20Detector/Finding%20Real%20About%20Fake%20News%20by%20Angie%20Sheng.pdf) and [technical presentation](https://github.com/Angie-Sheng/GA-Projects/blob/master/Fake%20News%20Detector/Detecting%20fake%20news.pdf).
 
